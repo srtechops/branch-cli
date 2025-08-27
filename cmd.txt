@@ -1,4 +1,5 @@
 git branch dev
+git branch -mv
 git branch -b
 git checout dev
 git branch -d <branch_name>
